@@ -1,0 +1,3 @@
+amb/
+.env/
+db.sqlite3
